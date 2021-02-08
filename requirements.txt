@@ -1,0 +1,7 @@
+streamlit==0.68.0
+pandas
+numpy
+scipy
+base64
+BytesIO
+scikit_learn == 0.23.2
